@@ -9,9 +9,9 @@
 
 
 # Socials
-[**HackenProof Profile**](https://hackenproof.com/hackers/gklptrgt)
+[**HackenProof Profile**](https://hackenproof.com/hackers/0xidant)
 
-[**Immunefi Profile**](https://immunefi.com/profile/gklptrgt/)
+[**Immunefi Profile**](https://immunefi.com/profile/Oxidant/)
 
 [**Sherlock Profile**](https://audits.sherlock.xyz/watson/gklptrgt)
 
